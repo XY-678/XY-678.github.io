@@ -25,5 +25,3 @@ title: 首页
 {% endif %}
 
 ---
-
-> 这是一个使用 GitHub Pages 和 Jekyll 构建的个人博客。
