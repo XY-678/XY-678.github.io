@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ACORN 与 HNSW 学习笔记"
-date: 2026-09-24 15:00:00 +0800
+date: 2026-09-24 00:00:00 +0800
 description: "系统梳理 HNSW 原理、ACORN 构建与搜索、关键参数、复杂度和容易混淆的问题。"
 categories: [向量检索, HNSW, ACORN]
 ---
