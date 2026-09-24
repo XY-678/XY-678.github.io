@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ZK-ACORN：面向可验证混合向量检索的研究 Idea"
-date: 2026-09-24 15:00:00 +0800
+date: 2026-09-24 00:00:00 +0800
 description: "从 ACORN、可验证 ANN 与零知识证明出发，整理 ZK-ACORN 的研究现状、系统设计与下一步路线。"
 categories: [向量检索, ACORN, Zero-Knowledge]
 ---
