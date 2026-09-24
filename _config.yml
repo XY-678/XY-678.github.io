@@ -1,0 +1,8 @@
+title: "XY 的技术博客"
+description: "学习笔记 · 编程实践 · 技术分享"
+lang: zh-CN
+theme: jekyll-theme-cayman
+show_downloads: false
+url: "https://xy-678.github.io"
+baseurl: ""
+permalink: /posts/:title/
